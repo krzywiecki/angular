@@ -1,0 +1,21 @@
+{
+  "name": "angular",
+  "homepage": "https://github.com/krzywiecki/angular",
+  "description": "My first angular codes",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Dominik Krzywiecki"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
